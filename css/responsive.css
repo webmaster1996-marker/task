@@ -1,0 +1,132 @@
+@media screen and (max-width:1399px) {
+.wsmenu > .wsmenu-list > li > a{ margin-left:30px;}
+.wsmenu .wsmenu-list li a.head_btn{ margin-left: 50px;}
+.what_we_do .caption{ width:95%;}
+}
+
+@media screen and (max-width:1139px) {
+.wsmenu > .wsmenu-list > li > a{ font-size:15px; margin-left: 10px;}
+.wsmenu .wsmenu-list li a.head_btn{  margin-left: 30px;  margin-right: 20px;}
+.wsmenu .wsmenu-list li a.head_btn::before{ width:110%; left: -5%}
+.wsmenu .wsmenu-list li a.head_btn::after{ width:104%; left: -2%}
+.what_we_do .caption{ padding-left: 35px;}
+.what_we_do .caption h1{ font-size:48px; line-height: 54px;}
+.what_we_do .caption h2{ font-size:28px; line-height: 38px;}
+.diamond_blk, .manufacture_content{ max-width: 95%;}
+.diamond_blk h2, .identify_right h2, .location_left h2, .acreditation_blk h2, .contact_banner .caption h1, .cut_polish_left h2, .service_top_blk h2, .service_btm_blk h2{ font-size:30px; line-height:40px;}
+.diamond_blk p, .identify_right p, .manufacture_content p, .location_left ul li h4, .location_left ul li p, .cut_polish_left p, .service_top_blk p, .about_banner_right p, .about_content p, .manufacture_content ul li{ font-size:16px; line-height:26px;}
+.manufacture_content h2{ font-size:26px; line-height:40px;}
+.location_left h3{ font-size:20px; line-height:28px;}
+.acreditation_logos ul li{ width: 150px; margin: 0px 15px;}
+.footer_top ul li, .footer_top h2{  font-size:22px;}
+.contact_banner .caption p, .service_top_blk h3{ font-size:20px;}
+.contact_frm_blk, .contact_info_blk{ min-height: 575px; padding: 50px 30px;}
+.contact_info_blk h2, .contact_frm_blk button{ font-size:20px;}
+.initiative_banner .caption{ max-width: 465px; padding-left: 30px;}
+.initiative_banner .caption h1{ font-size:42px; line-height:50px;}
+.initiative_banner .caption h2{ font-size:34px; line-height:40px;}
+.initiative_top_blk p{ font-size: 22px; line-height: 28px;}
+.initiative_btm_blk h3, .initiative_btm_blk p{ font-size: 26px;}
+.about_banner_left h1{ font-size: 36px; line-height: 50px;}
+.about_content h2{ font-size: 32px; line-height: 40px;}
+.initiative_banner{ padding: 130px 0px 220px;}
+.form-control, .footer_btm ul li{ font-size: 15px;}
+.middle_blk.initiative_page{ padding-top: 180px;}
+}
+
+ @media screen and (max-width:1023px) {
+.wsmenu > .wsmenu-list > li > a{ font-size:14px; margin-left:10px;}
+.wsmenu .wsmenu-list li a.head_btn{  margin-left: 30px;  margin-right: 20px;}
+.wsmenu .wsmenu-list li a.head_btn::before{ width:110%; left: -5%}
+.wsmenu .wsmenu-list li a.head_btn::after{ width:104%; left: -2%}
+.what_we_do .caption{ padding-left: 25px;}
+.what_we_do .caption h1{ font-size:36px; line-height: 48px;}
+.what_we_do .caption h2{ font-size:22px; line-height: 30px;}
+.diamond_blk, .manufacture_content{ max-width: 88%;}
+.diamond_blk h2, .identify_right h2, .location_left h2, .acreditation_blk h2, .contact_banner .caption h1, .cut_polish_left h2, .service_top_blk h2, .service_btm_blk h2{ font-size:24px; line-height:32px;}
+.diamond_blk p, .identify_right p, .manufacture_content p, .location_left ul li h4, .location_left ul li p, .cut_polish_left p, .service_top_blk p, .about_banner_right p, .about_content p, .manufacture_content ul li{ font-size:15px; line-height:22px;}
+.manufacture_content h2{ font-size:22px; line-height:28px; margin-bottom:20px;}
+.location_left h3{ font-size:20px; line-height:28px;}
+.acreditation_logos ul li{ width: 100px; margin: 0px 15px;}
+.footer_top ul li, .footer_top h2{  font-size:20px;}
+.contact_banner .caption p, .service_top_blk h3{ font-size:20px;}
+.contact_frm_blk, .contact_info_blk{ min-height: 575px; padding: 50px 30px;}
+.contact_info_blk h2, .contact_frm_blk button{ font-size:20px;}
+.initiative_banner .caption{ max-width: 350px; padding-left: 30px;}
+.initiative_banner .caption h1{ font-size:32px; line-height:42px;}
+.initiative_banner .caption h2{ font-size:24px; line-height:40px;}
+.initiative_top_blk p{ font-size: 20px; line-height: 26px;}
+.initiative_btm_blk h3, .initiative_btm_blk p{ font-size: 24px; line-height: 36px;}
+.about_banner_left h1{ font-size: 36px; line-height: 50px;}
+.about_content h2{ font-size: 26px; line-height: 34px;}
+.initiative_banner{ padding: 130px 0px 220px;}
+.cut_polish_left{ padding-left:25px;}
+.aboutus_banner{ padding: 50px 0px 120px;}
+.initiative_img{ width: 350px;}
+.middle_blk.initiative_page{ padding-top: 140px;}
+.what_we_do{ background:none; padding-top: 54px;}
+.bnr_mgn { margin: 20px auto 70px;}
+.identify_blk{ padding-top: 70px;}
+}
+
+ @media screen and (max-width:767px) {
+ header{ padding-bottom: 20px;}
+.middle_blk{ padding:30px 0px;}
+.brand_logo{ width: 70px; left:0px; right:0px; margin: auto;}
+.brand_logo.right{ left:0px; right:0px;}
+.aboutus_banner{ padding: 50px 0px 60px;}
+.about_banner_left{ text-align: center;}
+.about_banner_left h1{  font-size: 30px; line-height: 40px;}
+.about_banner_left h1{ position:static;}
+.about_banner_right{ padding:20px 0px 0px;}
+.about_banner_right::before{ content:none;}
+.about_content h2{ font-size: 24px; line-height: 30px;}
+.about_img{ margin:20px 0px;}
+.diamond_blk h2, .identify_right h2, .location_left h2, .acreditation_blk h2, .contact_banner .caption h1, .cut_polish_left h2, .service_top_blk h2, .service_btm_blk h2{ font-size:22px; line-height:30px;}
+.footer_top ul li{ margin: 0px 20px;}
+.footer_top ul li, .footer_top h2{ font-size:18px;}
+.footer_btm ul li{ margin: 0px 10px;}
+.form-control, .footer_btm ul li{ font-size: 14px;}
+.contact_banner{ padding: 80px 0px 100px;}
+.contact_banner .caption p, .service_top_blk h3{ font-size:18px;}
+.initiative_img{ width: 100%; position: static;}
+.initiative_banner .caption h1{ font-size:28px; line-height:36px;}
+.initiative_banner .caption h2{ font-size:20px; line-height:30px; margin-bottom: 20px;}
+.initiative_banner{ padding: 70px 0px 70px;}
+.middle_blk.initiative_page{ padding-top: 50px;}
+.initiative_btm_blk h3, .initiative_btm_blk p{ font-size: 22px; line-height: 32px;}
+.practice_blk{ padding: 50px 0px 0px;}
+.initiative_img_blk{ padding:10px 0px 50px;}
+.initiative_img_blk img{ margin-top: 20px;}
+.service_blk, .cut_polish_blk{ padding: 50px 0px;}
+.manufacture_left{ padding: 70px 30px 50px;}
+.diamond_blk, .manufacture_content{ max-width: 100%;}
+.manufacture_content{ margin-bottom: 30px;}
+.what_we_do .caption{ padding: 30px; text-align: center;}
+.what_we_do .caption h1{ font-size:30px; line-height: 38px;}
+.what_we_do .caption h2{ font-size:20px; line-height: 26px;}
+	 
+.d_view{ display:none;}
+.p_view{ display:block;}
+.what_we_do_img{ background: url(../images/mobile-bnr-bg.png) no-repeat 0px 0px; background-size:cover; padding:0px;}
+.what_we_do_img.p_view img{ width:260px;}
+.acreditation_logos ul li { width: 105px; margin: 0px 30px 20px;}
+.acreditation_blk{ padding: 55px 0px;}
+.location_blk{ padding: 35px 0px;}
+.location_left h3{ font-size:18px; line-height:24px;}
+.identify_img{ max-width: 350px; margin:0px auto 20px; text-align:center;}
+.identify_right, .location_left, .location_right { max-width: 300px; margin: auto;}
+.identify_img.mt_up{ max-width: 300px; margin: auto;}
+.mb_50 { margin-bottom: 20px;}
+.identify_right h2{ margin-bottom: 10px;}
+.manufacture_img { max-width: 300px; margin: auto; position: relative; top: 40px; z-index: 1;}
+.identify_blk { padding:0px 0px 0px;}
+.manufacture_content, .diamond_blk{ max-width: 300px; margin:0px auto 30px;}
+.manufacture_content a{ display:none;}
+.diamond_img{ margin-bottom:20px; position:static;}
+.diamond_blk{ padding-left:0px; border-left:none;}
+.diamond_img img { max-width: 360px; margin-left: -18px;}
+.diamond_blk h2, .diamond_blk p{ color: #1c1c1c;}
+.bnr_mgn { margin: 20px auto 10px;}
+}
+
